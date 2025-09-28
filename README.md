@@ -43,6 +43,6 @@ I’m a Computer Science student at **Birzeit University**, passionate about bac
 
 ## 📫 Connect with Me  
 
-- 📧 Email: [Email](mailto:tariqladaweh@gmail.com)
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/tariq-ladadweh/) 
-- 🌐 GitHub: [GitHub](https://github.com/Tladadweh)
+- 📧[Email](mailto:tariqladaweh@gmail.com)
+- 💼[LinkedIn](https://www.linkedin.com/in/tariq-ladadweh/) 
+- 🌐[GitHub](https://github.com/Tladadweh)
