@@ -44,5 +44,5 @@ I enjoy designing clean and maintainable code, working on database-driven applic
 ## 📫 Connect with Me  
 
 - 📧 Email: [Email](mailto:tariqladaweh@gmail.com)
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/tariq-ladadweh/))  
-- 🌐 GitHub: [GitHub](https://github.com/tariqladadweh)  
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/tariq-ladadweh/) 
+- 🌐 GitHub: [GitHub](https://github.com/Tladadweh)
