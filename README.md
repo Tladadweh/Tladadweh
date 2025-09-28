@@ -1,18 +1,18 @@
 # Hi there 👋  
-💻 Computer Science Student | Backend Developer 
+💻 **Computer Science Student | Backend Developer**
 📍 Based in Palestine | 🌐 Passionate about building scalable systems and solving real-world problems  
 
 ---
 
 ## 🚀 About Me  
-I’m a Computer Science student at **Birzeit University**, passionate about backend engineering, databases, and problem-solving.  
-I enjoy designing clean and maintainable code, working on database-driven applications, and building practical solutions.  
+I’m a Computer Science student at **Birzeit University**, passionate about backend engineering, databases, and problem-solving. Skilled in **C#, ASP.NET Core, Java, JavaFX, SQL Server**, I enjoy designing clean and maintainable code, working on database-driven applications, and building practical solutions using modern software practices.
+
 
 ---
 
 ## 🎓 Education  
 - **B.S. in Computer Science** – Birzeit University (Expected 2026)  
-- ⚡ Fun fact: I love working on projects that combine creativity with solid engineering principles.  
+- ⚡Fun fact: I love working on projects that combine creativity with solid engineering principles.  
 
 ---
 
