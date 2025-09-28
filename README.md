@@ -11,7 +11,7 @@ I enjoy designing clean and maintainable code, working on database-driven applic
 ---
 
 ## 🎓 Education  
-- B.S. in Computer Science – Birzeit University (Expected 2026)  
+- **B.S. in Computer Science** – Birzeit University (Expected 2026)  
 - ⚡ Fun fact: I love working on projects that combine creativity with solid engineering principles.  
 
 ---
