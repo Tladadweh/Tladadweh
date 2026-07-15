@@ -11,7 +11,7 @@ I’m a Computer Science student at **Birzeit University**, passionate about bac
 ---
 
 ## 🎓 Education  
-- **B.S. in Computer Science** – Birzeit University (Expected 2026)  
+- **B.S. in Computer Science** – Birzeit University - Graduated in 2026  
 - ⚡Fun fact: I love working on projects that combine creativity with solid engineering principles.  
 
 ---
@@ -19,13 +19,16 @@ I’m a Computer Science student at **Birzeit University**, passionate about bac
 ## 🛠️ Tech Stack  
 
 **Frontend:**  
-• HTML, CSS, JavaScript (basics)  
+• HTML, CSS, JavaScript, React  
 
 **Backend:**  
 • C# / ASP.NET Web API  
 • Java / JavaFX  
 • Python (scripting & automation)  
 • RESTful API design  
+**Mobile Development:**
+• Flutter
+• Android (Java).
 
 **Databases:**  
 • SQL Server, MySQL  
