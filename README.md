@@ -26,8 +26,9 @@ I’m a Computer Science student at **Birzeit University**, passionate about bac
 • Java / JavaFX  
 • Python (scripting & automation)  
 • RESTful API design  
-**Mobile Development:**
-• Flutter
+
+**Mobile Development:**   
+• Flutter   
 • Android (Java).
 
 **Databases:**  
