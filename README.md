@@ -161,7 +161,9 @@ Developed an application that calculates the shortest distance, minimum travel t
 ## 📫 Connect With Me
 
 📧 **Email:** [tariqladaweh@gmail.com](mailto:tariqladaweh@gmail.com)
+
 💼 **LinkedIn:** [linkedin.com/in/tariq-ladadweh](https://www.linkedin.com/in/tariq-ladadweh/)
+
 🌐 **GitHub:** [github.com/Tladadweh](https://github.com/Tladadweh)
 
 ---
