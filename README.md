@@ -1,171 +1,89 @@
 # Hi, I'm Tariq Ladadweh 👋
 
-💻 **Computer Science Graduate | Backend & Software Developer**
+**Computer Science Graduate | Backend & Software Developer**  
 📍 Ramallah, Palestine
-🚀 Interested in building reliable, scalable, and maintainable software solutions
 
----
+I build backend services and API-driven applications with an emphasis on **reliability, maintainability, and clean software design**. I'm a Computer Science graduate from **Birzeit University** with hands-on experience through internships and projects using **ASP.NET Core, Spring Boot, TypeScript, PostgreSQL, and SQL Server**.
 
-## 👨‍💻 About Me
+- 🔧 Focused on **backend engineering, REST APIs, database design, and software architecture**
+- 🧪 Interested in **automated testing, containerization, and reliable distributed systems**
+- 🌱 Exploring **AI agents, LLM integration, and developer tooling**
+- 🤝 Open to **junior software engineering and backend development opportunities**
 
-I'm a **Computer Science graduate from Birzeit University** with hands-on experience in developing **web, backend, desktop, and mobile applications**.
+## 🛠️ Technical Skills
 
-My main focus is **Backend Development**, especially building RESTful APIs using **C# and ASP.NET Core**, designing clean application architectures, and working with relational databases.
-
-I also enjoy solving algorithmic problems and building practical applications using technologies such as **Java, Spring Boot, Flutter, PostgreSQL, and Firebase**.
-
----
-
-## 🛠️ Tech Stack
-
-### Backend & APIs
-
-* C# / ASP.NET Core Web API
-* Java / Spring Boot
-* RESTful APIs
-* JWT Authentication & Authorization
-* Swagger / OpenAPI
-* FluentValidation
-
-### Architecture & Design Patterns
-
-* Clean Architecture
-* Repository Pattern
-* Unit of Work
-* Layered Architecture
-* DTOs & AutoMapper
-
-### Databases & ORM
-
-* SQL Server
-* PostgreSQL
-* MySQL
-* Entity Framework Core
-
-### Frontend
-
-* HTML
-* CSS
-* JavaScript
-* React
-
-### Mobile Development
-
-* Flutter
-* Android (Java)
-
-### Tools
-
-* Git
-* Docker
-* Postman
-* Apache JMeter
-* Visual Studio
-* VS Code
-* Linux / Ubuntu
-
----
+| Area | Technologies & Concepts |
+| --- | --- |
+| **Languages** | Java, C#, TypeScript, JavaScript, Python, C |
+| **Backend & APIs** | ASP.NET Core Web API, Spring Boot, REST APIs, HTTP, JWT, Swagger / OpenAPI |
+| **Databases** | PostgreSQL, SQL Server, MySQL, SQL, Entity Framework Core |
+| **Architecture** | Clean Architecture, Layered Architecture, Repository Pattern, Unit of Work |
+| **Tools & Testing** | Git, Docker, Linux, Postman, Apache JMeter, k6 |
+| **Web & Mobile** | React, Flutter, HTML, CSS, Android (Java) |
+| **AI (learning & projects)** | LLM API integration, AI agents, function calling, prompt engineering, Claude API, MCP |
 
 ## 💼 Experience
 
+### Software Engineering Intern — Foothill
+**Sep 2026 – Nov 2026**
+
+- Completed a project-based software engineering roadmap spanning **Git, Python, TypeScript, HTTP, SQL, Docker, and backend development**.
+- Practiced **API design, relational data modeling, authentication, asynchronous processing, testing, and containerized development**.
+- Studied **functional programming, AI agents, and RabbitMQ pub/sub messaging**; built a TypeScript/PostgreSQL final project.
+
 ### Backend Developer Intern — Dimensions Information Technology
+**Jul 2025 – Oct 2025 · Ramallah, Palestine**
 
-**Jul 2025 – Oct 2025 | Ramallah, Palestine**
-
-* Built RESTful APIs using **C# and ASP.NET Core Web API**.
-* Applied **Clean Architecture**, Repository Pattern, and Unit of Work.
-* Worked with **Entity Framework Core** and **SQL Server**.
-* Implemented request validation using **FluentValidation**.
-* Documented and tested APIs using **Swagger / OpenAPI**.
-* Participated in code reviews and collaborated with the development supervisor.
-
----
+- Built **C# / ASP.NET Core Web APIs** using architectural patterns including Clean Architecture, Repository Pattern, and Unit of Work.
+- Worked with **Entity Framework Core and SQL Server** for relational data access and migrations.
+- Used **FluentValidation** and **Swagger / OpenAPI** for request validation, API documentation, and testing.
 
 ## 🚀 Featured Projects
 
+### 📊 [Usage Metering and Quota Service](https://github.com/Tladadweh/usage-metering-quota-service)
+**Foothill Final Project · TypeScript · PostgreSQL · Docker**
+
+A backend service for tracking and enforcing **account-level and user-level usage limits** against configurable subscription plans.
+
+- Consumption validation against **monthly allowances and per-request limits**
+- **API-key-secured** operations, custom plan management, usage reporting, and request history
+- **Idempotent** consumption requests with PostgreSQL persistence
+- Integration and reliability tests, Docker Compose, sample client, and **k6 load testing**
+
+### 📚 [Online Course Management System (OCMS)](https://github.com/Tladadweh/OCMS.Api)
+**Dimensions Internship Project · ASP.NET Core Web API · EF Core · SQL Server**
+
+A backend course management platform supporting **Admin, Instructor, and Student** roles.
+
+- **JWT authentication** and role-based authorization
+- Course and lesson management, enrollment, and progress tracking
+- DTOs, AutoMapper, FluentValidation, and layered architecture
+- Search/filtering, student transcripts, instructor rosters, and enrollment insights
+
 ### 🎓 Student Bag — Smart Educational Companion Platform
+**Graduation Project · Flutter · Spring Boot · PostgreSQL · Firebase**
 
-**Graduation Project**
+A role-based academic companion for **Students, Instructors, and Administrators**.
 
-A role-based academic platform for **Students, Instructors, and Administrators**.
-
-**Tech:** Flutter • Spring Boot • PostgreSQL • Firebase
-
-* Smart schedule generation
-* Tasks, notes, resources, GPA tracking, and events
-* AI-powered academic assistant
-* JWT authentication and role-based access control
-* Firebase Storage integration
-* Offline tasks and notes with synchronization
-* RESTful API integration
-* API testing with Postman and performance testing with JMeter
-
----
-
-### 📚 Online Course Management System
-
-**ASP.NET Core Web API**
-
-Backend system supporting **Admin, Instructor, and Student** roles.
-
-**Tech:** ASP.NET Core • EF Core • SQL Server • JWT
-
-* JWT authentication and authorization
-* Clean / layered architecture
-* DTOs, AutoMapper, and FluentValidation
-* Course and lesson management
-* Draft / publish workflow
-* Student enrollment
-* Lesson-level progress tracking
-* Search and filtering
-* Student transcripts and instructor course rosters
-
----
+- Smart scheduling, tasks, notes, resources, grades/GPA tracking, events, and notifications
+- **AI-powered academic assistant** and REST API integration
+- JWT authentication, role-based access control, and Firebase Storage
+- Offline task/note synchronization; API and selected performance testing
 
 ### 🪙 Coins Game
+**Java · Dynamic Programming**
 
-**Java • Dynamic Programming**
+A two-player coin-collecting strategy game that applies dynamic programming to identify optimal moves and maximize scores.
 
-Developed a two-player coin-collecting strategy game using dynamic programming to determine optimal moves and decisions.
+## 📚 Continuous Learning
 
----
+- **Boot.dev — Software Engineering Learning Path (2026):** Git, Docker, TypeScript, Python functional programming, SQL, HTTP clients/servers, RabbitMQ pub/sub, AI agent development, and project-based backend practice.
+- **Anthropic — AI Development Learning Path (2026):** Claude API, Claude Code, AI agent concepts, function calling, agent skills, and Model Context Protocol (MCP).
 
-### 🗜️ Huffman Compression Tool
+## 📫 Connect
 
-**Java • Data Structures**
+- 📧 **Email:** [tariqladaweh@gmail.com](mailto:tariqladaweh@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/tariq-ladadweh](https://www.linkedin.com/in/tariq-ladadweh/)
+- 🌐 **GitHub:** [github.com/Tladadweh](https://github.com/Tladadweh)
 
-Built a file compression and decompression application using the **Huffman Encoding algorithm**, including Huffman tree construction and file processing.
-
----
-
-### 🌍 World Map Shortest Path
-
-**Java • Dijkstra's Algorithm**
-
-Developed an application that calculates the shortest distance, minimum travel time, and lowest travel cost between countries using **Dijkstra's shortest-path algorithm**.
-
----
-
-## 🎯 Currently Focused On
-
-* Backend Development
-* ASP.NET Core
-* RESTful API Design
-* Clean Architecture
-* Database Design
-* Spring Boot
-* Software Engineering Best Practices
-
----
-
-## 📫 Connect With Me
-
-📧 **Email:** [tariqladaweh@gmail.com](mailto:tariqladaweh@gmail.com)
-
-💼 **LinkedIn:** [linkedin.com/in/tariq-ladadweh](https://www.linkedin.com/in/tariq-ladadweh/)
-
-🌐 **GitHub:** [github.com/Tladadweh](https://github.com/Tladadweh)
-
----
-
-> Always learning, building, and improving one project at a time. 🚀
+*Learning continuously, building practical solutions, and improving one project at a time.*
