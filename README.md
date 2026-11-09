@@ -10,6 +10,14 @@ I build backend services and API-driven applications with an emphasis on **relia
 - 🌱 Exploring **AI agents, LLM integration, and developer tooling**
 - 🤝 Open to **junior software engineering and backend development opportunities**
 
+## 🎓 Education
+
+**Bachelor’s Degree in Computer Science — Birzeit University**  
+**2022 – 2026 | Grade: Very Good**  
+📍 Birzeit, Palestine
+
+---
+
 ## 🛠️ Technical Skills
 
 | Area | Technologies & Concepts |
