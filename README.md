@@ -78,7 +78,8 @@ A backend course management platform supporting **Admin, Instructor, and Student
 - DTOs, AutoMapper, FluentValidation, and layered architecture
 - Search/filtering, student transcripts, instructor rosters, and enrollment insights
 
-### 🎓 [Student Bag — Smart Educational Companion Platform](https://github.com/Tladadweh/student-bag-docs)  **Graduation Project · Flutter · Spring Boot · PostgreSQL · Firebase**
+### 🎓 [Student Bag — Smart Educational Companion Platform](https://github.com/Tladadweh/student-bag-docs)
+**Graduation Project · Flutter · Spring Boot · PostgreSQL · Firebase**
 
 A role-based academic companion for **Students, Instructors, and Administrators**.
 
