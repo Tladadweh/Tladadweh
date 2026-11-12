@@ -48,6 +48,16 @@ I build backend services and API-driven applications with an emphasis on **relia
 
 ## 🚀 Featured Projects
 
+### 🍽️ [Feedo — Smart Household Food Management Platform](https://github.com/Tladadweh/Feedo)
+**Flutter · Spring Boot · PostgreSQL · Python OCR**
+
+A full-stack household food management platform that combines **meal planning, smart shopping, budgeting, receipt intelligence, and inventory tracking**.
+
+- Personalized meal planning and household-aware food recommendations
+- Smart grocery planning with quantity estimation and purchase tracking
+- Receipt scanning with **OCR**, uncertainty-aware review, and food/non-food classification
+- Flutter mobile client, Spring Boot REST API, PostgreSQL persistence, and Python-based OCR services
+
 ### 📊 [Usage Metering and Quota Service](https://github.com/Tladadweh/usage-metering-quota-service)
 **Foothill Final Project · TypeScript · PostgreSQL · Docker**
 
@@ -68,8 +78,7 @@ A backend course management platform supporting **Admin, Instructor, and Student
 - DTOs, AutoMapper, FluentValidation, and layered architecture
 - Search/filtering, student transcripts, instructor rosters, and enrollment insights
 
-### 🎓 Student Bag — Smart Educational Companion Platform
-**Graduation Project · Flutter · Spring Boot · PostgreSQL · Firebase**
+### 🎓 [Student Bag — Smart Educational Companion Platform](https://github.com/Tladadweh/student-bag-docs)**Graduation Project · Flutter · Spring Boot · PostgreSQL · Firebase**
 
 A role-based academic companion for **Students, Instructors, and Administrators**.
 
@@ -77,11 +86,6 @@ A role-based academic companion for **Students, Instructors, and Administrators*
 - **AI-powered academic assistant** and REST API integration
 - JWT authentication, role-based access control, and Firebase Storage
 - Offline task/note synchronization; API and selected performance testing
-
-### 🪙 Coins Game
-**Java · Dynamic Programming**
-
-A two-player coin-collecting strategy game that applies dynamic programming to identify optimal moves and maximize scores.
 
 ## 📚 Continuous Learning
 
